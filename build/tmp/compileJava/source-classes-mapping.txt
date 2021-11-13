@@ -1,0 +1,18 @@
+com/codegym/model/TypeProduct.java
+ com.codegym.model.TypeProduct
+com/codegym/model/Product.java
+ com.codegym.model.Product
+config/SingletonConnection.java
+ config.SingletonConnection
+com/codegym/dao/productDAO/IProductDao.java
+ com.codegym.dao.productDAO.IProductDao
+com/codegym/dao/typeProductDAO/ITypeProductDAO.java
+ com.codegym.dao.typeProductDAO.ITypeProductDAO
+com/codegym/dao/IDataAccessObject.java
+ com.codegym.dao.IDataAccessObject
+com/codegym/dao/productDAO/ProductDAO.java
+ com.codegym.dao.productDAO.ProductDAO
+com/codegym/dao/typeProductDAO/TypeProductDAO.java
+ com.codegym.dao.typeProductDAO.TypeProductDAO
+com/codegym/controller/ProductServlet.java
+ com.codegym.controller.ProductServlet
